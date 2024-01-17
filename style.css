@@ -1,0 +1,19 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+.calculatorContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.calculator {
+  margin-top: 20px;
+}
+
+.inputContainer, .resultContainer {
+  margin-top: 10px;
+}
